@@ -1,4 +1,4 @@
-# <p align="center">ruin.xyz | Ruin</p>
+# <p align="center">ruinzx | ruinzx</p>
 
 <p align="center">
   <img src="144bcebc81c6416a5ea32430038fb5b4.png" width="150">
