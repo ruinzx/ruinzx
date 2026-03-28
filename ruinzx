@@ -19,3 +19,7 @@ web  $ guns.lol/ruin.xyz </pre>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourname&color=blue" alt="profile views">
 </p>
+
+git mv ruinzx/README.md .
+git commit -m "Move README to root"
+git push
