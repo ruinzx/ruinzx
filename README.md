@@ -1,6 +1,7 @@
 # <p align="center">ruinzx | ruinzx</p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Student;Builder&center=true&width=500&height=50">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Ruin.xyz&center=true&width=500&height=50">
 
 <p align="center">
   <img src="[(https://github.com/ruinzx/ruinzx/blob/a0ed30a63b0f41f5e57727815a9ffd8de3909612/144bcebc81c6416a5ea32430038fb5b4.png)]" width="150">
