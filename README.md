@@ -7,7 +7,7 @@
 
 <p align="-center">
 <pre>
-github.com/yourname
+github.com/ruinzx
 
 dc   $ @ruin.xyz
 srv  $ https://discord.gg/4nEqmpqfqQ
