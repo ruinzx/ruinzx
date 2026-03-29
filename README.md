@@ -16,6 +16,6 @@ web  $ guns.lol/ruin.xyz </pre>
 
 ---
 
-<p align="center">
+<p align="left-center">
   <img src="https://komarev.com/ghpvc/?username=yourname&color=blue" alt="profile views">
 </p>
